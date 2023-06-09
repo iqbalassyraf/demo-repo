@@ -1,3 +1,3 @@
 # Demo
 
-It's my first time doing this github thing
+It's my first time doing this github thing!
